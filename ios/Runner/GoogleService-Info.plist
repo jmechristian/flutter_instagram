@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>814207958452-etmprgbhese5m9fcen0jlu8ql8vqs8bi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.814207958452-etmprgbhese5m9fcen0jlu8ql8vqs8bi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUVm71DnVeJajunEWnTkE7VxH9w_YkS90</string>
+	<key>GCM_SENDER_ID</key>
+	<string>814207958452</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jmechristiandigital.flutterInstagram</string>
+	<key>PROJECT_ID</key>
+	<string>flutterinstagram-52f54</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterinstagram-52f54.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:814207958452:ios:4c01d9ce10d823a86206e1</string>
+</dict>
+</plist>
