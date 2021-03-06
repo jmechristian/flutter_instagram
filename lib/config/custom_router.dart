@@ -11,6 +11,8 @@ class CustomRouter {
         );
       case SplashScreen.routeName:
         return SplashScreen.route();
+      case SignupScreen.routeName:
+        return SignupScreen.route();
       case LoginScreen.routeName:
         return LoginScreen.route();
       case NavScreen.routeName:
