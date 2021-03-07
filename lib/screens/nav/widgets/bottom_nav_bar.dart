@@ -30,7 +30,7 @@ class BottomNavBar extends StatelessWidget {
             (item, icon) => MapEntry(
               item.toString(),
               BottomNavigationBarItem(
-                title: Text(''),
+                label: '',
                 icon: Icon(
                   icon,
                   size: 30.0,

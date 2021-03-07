@@ -90,6 +90,7 @@ class LoginScreen extends StatelessWidget {
                             const SizedBox(
                               height: 28.0,
                             ),
+                            // ignore: deprecated_member_use
                             RaisedButton(
                               elevation: 1,
                               color: Theme.of(context).primaryColor,
@@ -103,6 +104,7 @@ class LoginScreen extends StatelessWidget {
                             const SizedBox(
                               height: 12.0,
                             ),
+                            // ignore: deprecated_member_use
                             RaisedButton(
                               elevation: 1,
                               color: Colors.grey[200],

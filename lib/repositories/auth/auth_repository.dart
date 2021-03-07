@@ -16,7 +16,6 @@ class AuthRepository extends BaseAuthRepository {
         _firebaseAuth = firebaseAuth ?? auth.FirebaseAuth.instance;
 
   @override
-  // TODO: implement user
   Stream<auth.User> get user => _firebaseAuth.userChanges();
 
   @override
@@ -45,7 +44,6 @@ class AuthRepository extends BaseAuthRepository {
   @override
   Future<auth.User> loginWithEmailandPassword(
       {@required String email, @required String password}) async {
-    // TODO: implement loginWithEmailandPassword
     try {
       final credential = await _firebaseAuth.signInWithEmailAndPassword(
           email: email, password: password);

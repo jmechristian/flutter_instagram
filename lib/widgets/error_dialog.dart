@@ -38,6 +38,7 @@ class ErrorDialog extends StatelessWidget {
       title: Text(title),
       content: Text(content),
       actions: <Widget>[
+        // ignore: deprecated_member_use
         FlatButton(
           onPressed: () => Navigator.of(context).pop(),
           child: const Text('Ok'),

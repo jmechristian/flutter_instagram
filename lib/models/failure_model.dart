@@ -7,10 +7,8 @@ class Failure extends Equatable {
   const Failure({this.code, this.message});
 
   @override
-  // TODO: implement stringify
   bool get stringify => true;
 
   @override
-  // TODO: implement props
   List<Object> get props => [code, message];
 }
