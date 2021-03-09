@@ -29,7 +29,7 @@ dependencies:
   cached_network_image:
 
   enum_to_string: ^1.0.14
-  meta: 1.1.8
+  meta:
 
   cloud_firestore: ^0.14.4
   firebase_analytics: ^6.3.0
